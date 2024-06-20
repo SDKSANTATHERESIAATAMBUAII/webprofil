@@ -2842,8 +2842,8 @@ a {
   }
 }
 .cid-uga8HZrfpa {
-  padding-top: 4rem;
-  padding-bottom: 6rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
   background-color: #eeeeee;
 }
 .cid-uga8HZrfpa img,
@@ -6352,15 +6352,15 @@ a {
     padding: 1rem;
   }
 }
-.cid-ufv3m0DhSy {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #eeeeee;
+.cid-ugePJwbUnW {
+  padding-top: 4rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/whatsapp-image-2024-06-06-at-20.45.23-2-828x622.jpeg");
 }
-.cid-ufv3m0DhSy .mbr-fallback-image.disabled {
+.cid-ugePJwbUnW .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ufv3m0DhSy .mbr-fallback-image {
+.cid-ugePJwbUnW .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -6369,24 +6369,62 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ufv3m0DhSy .row {
-  flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-ufv3m0DhSy .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-ufv3m0DhSy .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
+.cid-ugePJwbUnW .card-wrapper {
+  background: #ffffff;
 }
 @media (max-width: 767px) {
-  .cid-ufv3m0DhSy .image-wrapper {
-    margin-bottom: 2rem;
+  .cid-ugePJwbUnW .card-wrapper {
+    padding: 2rem 1.5rem;
   }
 }
-.cid-ufv3m0DhSy .mbr-text {
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-ugePJwbUnW .card-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-ugePJwbUnW .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-ugePJwbUnW .mbr-text,
+.cid-ugePJwbUnW .mbr-section-btn {
+  color: #000000;
+  text-align: left;
+}
+.cid-ugePJwbUnW .card-title,
+.cid-ugePJwbUnW .card-box {
+  text-align: center;
+  color: #000000;
+}
+.cid-ugePJwbUnW .counter-container ul {
+  margin: 0;
+  padding-left: 2.25rem;
+  list-style: none;
+}
+.cid-ugePJwbUnW .counter-container ul li {
+  position: relative;
+  list-style: none;
+  margin-bottom: 2rem;
+}
+.cid-ugePJwbUnW .counter-container ul li:before {
+  position: absolute;
+  left: -1.5em;
+  content: "";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #ffffff;
+  width: 0.5em;
+  height: 0.5em;
+  top: 0.4em;
+  border-radius: 50%;
+}
+.cid-ugePJwbUnW .mbr-text UL {
+  text-align: left;
+}
+.cid-ugePJwbUnW .mbr-section-subtitle {
   text-align: left;
 }
 .cid-uga1mhVvzz {
